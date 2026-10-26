@@ -1,0 +1,8 @@
+dist/
+.openai/
+node_modules/
+__pycache__/
+.venv/
+data/
+runs/
+.env
