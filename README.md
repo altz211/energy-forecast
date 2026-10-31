@@ -1,6 +1,6 @@
 # Energy Forecast
 
-A Gulf district planning lab. Explore heat, growth, solar and battery storage against an assumed grid connection limit.
+A district energy planning with exploration of heat, growth, solar and battery storage against an assumed grid connection limit.
 
 ## Run
 
