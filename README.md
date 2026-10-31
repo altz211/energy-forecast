@@ -11,10 +11,6 @@ A district energy planning with exploration of heat, growth, solar and battery s
 
 Checks: `npm test`. Build: `npm run build`.
 
-## Deploy
-
-In GitHub: **Settings → Pages → Source → GitHub Actions**. Push to `main`, or run **Test and deploy** from Actions.
-
 ## Decisions
 
 - District demand is simulated. Live weather does not turn it into a measured utility forecast.
